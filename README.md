@@ -63,3 +63,32 @@ Specialized in migrating legacy Selenium suites to modern Playwright architectur
 ---
 
 ## 📁 Project Structure
+
+    sravan-portfolio/
+    └── index.html        # Complete portfolio — single file deployment
+
+---
+## 🌐 Live Demo
+
+👉 **[Shravan8326.github.io/sravan-portfolio](https://Shravan8326.github.io/sravan-portfolio)**
+
+---
+
+## 📬 Contact
+
+| Channel | Link |
+|---|---|
+| 📧 Email | shravankumarredapaka@gmail.com |
+| 💼 LinkedIn | [sravan-redapaka-26s](https://www.linkedin.com/in/sravan-redapaka-26s) |
+| ⚡ GitHub | [Shravan8326](https://github.com/Shravan8326) |
+
+---
+
+## 📄 License
+
+This portfolio is open source — feel free to use it as inspiration.
+Please do not copy content or personal details.
+
+---
+
+*Built with ☕ and a passion for breaking things (professionally).*
